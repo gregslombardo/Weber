@@ -1,6 +1,5 @@
 
 .gitattributes
-*.png
-hypergeometric_function.png
 .DS_Store
 .ipynb_checkpoints/*.ipynb
+.virtual_documents/*.ipynb
