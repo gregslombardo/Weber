@@ -1,0 +1,16 @@
+{
+  "system": "quadratic",
+  "kind": "2D",
+  "width": 3840,
+  "height": 2160,
+  "fps": 60,
+  "frames": 480,
+  "duration_seconds": 8,
+  "a_initial": -4,
+  "a_final": 4,
+  "grid_points": 700,
+  "domain": [
+    -25,
+    25
+  ]
+}

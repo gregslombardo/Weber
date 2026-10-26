@@ -1,0 +1,34 @@
+{
+  "Weber_quadratic_2D_4K_60fps.mp4": {
+    "width": 3840,
+    "height": 2160,
+    "r_frame_rate": "60/1",
+    "duration": "8.000000",
+    "nb_frames": "480",
+    "full_decode": "passed"
+  },
+  "Weber_linear_3D_4K_60fps.mp4": {
+    "width": 3840,
+    "height": 2160,
+    "r_frame_rate": "60/1",
+    "duration": "8.000000",
+    "nb_frames": "480",
+    "full_decode": "passed"
+  },
+  "Weber_quadratic_3D_4K_60fps.mp4": {
+    "width": 3840,
+    "height": 2160,
+    "r_frame_rate": "60/1",
+    "duration": "8.000000",
+    "nb_frames": "480",
+    "full_decode": "passed"
+  },
+  "Weber_linear_2D_4K_60fps.mp4": {
+    "width": 3840,
+    "height": 2160,
+    "r_frame_rate": "60/1",
+    "duration": "8.000000",
+    "nb_frames": "480",
+    "full_decode": "passed"
+  }
+}

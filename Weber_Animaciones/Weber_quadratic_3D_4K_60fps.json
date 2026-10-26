@@ -1,0 +1,19 @@
+{
+  "system": "quadratic",
+  "a_initial": -4,
+  "a_final": 4,
+  "width": 3840,
+  "height": 2160,
+  "fps": 60,
+  "frames": 480,
+  "duration_seconds": 8,
+  "grid_points": 121,
+  "quantity": "field",
+  "domain": [
+    -25,
+    25
+  ],
+  "normalization": "por panel y fotograma",
+  "linear_negative_policy": "empty",
+  "elapsed_seconds": 160.30194220900012
+}

@@ -1,0 +1,9 @@
+{
+  "a_tested": [
+    -4,
+    -2,
+    2,
+    4
+  ],
+  "linear_value_and_derivative_scaled_error": 3.6625429238786904e-13
+}
